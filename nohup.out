@@ -879,3 +879,147 @@ UnicodeDecodeError: 'ascii' codec can't decode byte 0xff in position 1: ordinal 
 [22/Dec/2014 07:21:42] "GET /http%3A//thecodinghouse.in/ HTTP/1.1" 404 1610
 [22/Dec/2014 07:21:42] "GET / HTTP/1.1" 200 21334
 [22/Dec/2014 09:09:54] "HEAD / HTTP/1.1" 200 0
+[22/Dec/2014 11:00:57] "HEAD / HTTP/1.0" 200 0
+[22/Dec/2014 11:02:24] "GET /admin/ HTTP/1.1" 200 3910
+[22/Dec/2014 11:02:25] "GET /static/grappelli/css/base.css HTTP/1.1" 200 10876
+[22/Dec/2014 11:02:25] "GET /static/grappelli/css/login.css HTTP/1.1" 200 980
+[22/Dec/2014 11:02:25] "GET /static/mezzanine/css/admin/global.css HTTP/1.1" 200 6200
+[22/Dec/2014 11:02:25] "GET /static/mezzanine/chosen/chosen.css HTTP/1.1" 200 15569
+[22/Dec/2014 11:02:25] "GET /static/mezzanine/chosen/chosen-0.9.12.jquery.js HTTP/1.1" 200 23739
+[22/Dec/2014 11:02:26] "GET / HTTP/1.1" 200 21334
+[22/Dec/2014 11:02:27] "GET /static/grappelli/css/reset.css HTTP/1.1" 200 724
+[22/Dec/2014 11:02:27] "GET /static/css/mezzanine.css HTTP/1.1" 200 10664
+[22/Dec/2014 11:02:27] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 17780
+[22/Dec/2014 11:02:27] "GET /static/css/style.css HTTP/1.1" 200 8013
+[22/Dec/2014 11:02:27] "GET /static/mezzanine/js/jquery-1.7.1.min.js HTTP/1.1" 200 93868
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 86, in run
+    self.finish_response()
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 128, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 217, in write
+    self._write(data)
+  File "/usr/lib/python2.7/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 32] Broken pipe
+[22/Dec/2014 11:02:27] "GET /static/mezzanine/js/jquery-1.7.1.min.js HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/srv/.virtualenv/tabono/local/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 126, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 651, in __init__
+    self.finish()
+  File "/usr/lib/python2.7/SocketServer.py", line 710, in finish
+    self.wfile.close()
+  File "/usr/lib/python2.7/socket.py", line 279, in close
+    self.flush()
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 32] Broken pipe
+[22/Dec/2014 11:02:29] "GET /static/css/prettyPhoto.css HTTP/1.1" 200 19788
+[22/Dec/2014 11:02:29] "GET /static/js/bootstrap.js HTTP/1.1" 200 58533
+[22/Dec/2014 11:02:30] "GET /static/js/bootstrap-extras.js HTTP/1.1" 200 2841
+[22/Dec/2014 11:02:31] "GET /static/js/retina-1.1.0.js HTTP/1.1" 200 3995
+[22/Dec/2014 11:02:31] "GET /static/js/jquery.hoverdir.js HTTP/1.1" 200 5307
+[22/Dec/2014 11:02:32] "GET /static/js/jquery.hoverex.min.js HTTP/1.1" 200 3768
+[22/Dec/2014 11:02:32] "GET /static/js/jquery.prettyPhoto.js HTTP/1.1" 200 22060
+[22/Dec/2014 11:02:33] "GET /static/js/jquery.isotope.min.js HTTP/1.1" 200 16033
+[22/Dec/2014 11:02:33] "GET /static/css/hoverex-all.css HTTP/1.1" 200 50809
+[22/Dec/2014 11:02:34] "GET /static/js/custom.js HTTP/1.1" 200 368
+[22/Dec/2014 11:02:38] "GET /static/css/bootstrap.css HTTP/1.1" 200 121220
+[22/Dec/2014 11:02:38] "GET /static/mezzanine/js/jquery-1.7.1.min.js HTTP/1.1" 200 93868
+[22/Dec/2014 11:02:44] "GET /static/img/portfolio/portfolio_04.jpg HTTP/1.1" 200 39249
+[22/Dec/2014 11:02:46] "GET /static/img/portfolio/portfolio_02.jpg HTTP/1.1" 200 81194
+[22/Dec/2014 11:02:46] "GET /static/img/portfolio/portfolio_03.jpg HTTP/1.1" 200 83259
+[22/Dec/2014 11:02:47] "GET /static/img/portfolio/portfolio_09.jpg HTTP/1.1" 200 94332
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 86, in run
+    self.finish_response()
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 128, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 217, in write
+    self._write(data)
+  File "/usr/lib/python2.7/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 32] Broken pipe
+[22/Dec/2014 11:02:47] "GET /static/img/portfolio/portfolio_09.jpg HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/srv/.virtualenv/tabono/local/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 126, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 651, in __init__
+    self.finish()
+  File "/usr/lib/python2.7/SocketServer.py", line 710, in finish
+    self.wfile.close()
+  File "/usr/lib/python2.7/socket.py", line 279, in close
+    self.flush()
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 32] Broken pipe
+[22/Dec/2014 11:02:48] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+[22/Dec/2014 11:02:49] "GET /static/img/portfolio/portfolio_05.jpg HTTP/1.1" 200 52365
+[22/Dec/2014 11:02:51] "GET /static/img/portfolio/portfolio_08.jpg HTTP/1.1" 200 49061
+[22/Dec/2014 11:02:53] "GET /static/img/portfolio/portfolio_07.jpg HTTP/1.1" 200 66187
+[22/Dec/2014 11:02:57] "GET /static/img/portfolio/portfolio_10.jpg HTTP/1.1" 200 54124
+[22/Dec/2014 11:02:58] "GET /static/img/clients/client01.png HTTP/1.1" 200 8150
+[22/Dec/2014 11:02:59] "GET /static/img/clients/client02.png HTTP/1.1" 200 5036
+[22/Dec/2014 11:03:00] "GET /static/img/clients/client03.png HTTP/1.1" 200 4296
+[22/Dec/2014 11:03:01] "GET /static/img/clients/client04.png HTTP/1.1" 200 6169
+[22/Dec/2014 11:03:03] "GET /static/img/portfolio/portfolio_06.jpg HTTP/1.1" 200 109239
+[22/Dec/2014 11:03:07] "GET /static/img/portfolio/portfolio_01.jpg HTTP/1.1" 200 74382
+[22/Dec/2014 11:03:13] "GET /static/img/portfolio/portfolio_02.jpg HTTP/1.1" 200 81194
+[22/Dec/2014 11:03:16] "GET /static/img/portfolio/portfolio_04.jpg HTTP/1.1" 200 39249
+[22/Dec/2014 11:03:18] "GET /static/img/browser.png HTTP/1.1" 200 215866
+[22/Dec/2014 11:03:21] "GET /static/img/portfolio/portfolio_03.jpg HTTP/1.1" 200 83259
+[22/Dec/2014 11:03:29] "GET /static/img/portfolio/portfolio_09.jpg HTTP/1.1" 200 111245
+[22/Dec/2014 11:03:41] "GET /static/img/t-back.jpg HTTP/1.1" 200 246480
+[22/Dec/2014 11:03:44] "GET /static/img/favicon.ico HTTP/1.1" 200 318
+[22/Dec/2014 11:06:23] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 1666
+[22/Dec/2014 11:13:52] "GET /admin HTTP/1.1" 301 0
+[22/Dec/2014 11:13:53] "GET /admin/ HTTP/1.1" 200 3910
+[22/Dec/2014 11:13:54] "GET /static/mezzanine/chosen/chosen.css HTTP/1.1" 200 15569
+[22/Dec/2014 11:13:54] "GET /static/mezzanine/chosen/chosen-0.9.12.jquery.js HTTP/1.1" 200 23739
+[22/Dec/2014 11:13:54] "GET /static/grappelli/css/reset.css HTTP/1.1" 200 724
+[22/Dec/2014 11:13:54] "GET /static/grappelli/css/typography.css HTTP/1.1" 200 7065
+[22/Dec/2014 11:13:54] "GET /static/grappelli/css/modules.css HTTP/1.1" 200 15465
+[22/Dec/2014 11:13:55] "GET /static/grappelli/css/tables.css HTTP/1.1" 200 3379
+[22/Dec/2014 11:13:55] "GET /static/grappelli/css/forms.css HTTP/1.1" 200 13762
+[22/Dec/2014 11:13:55] "GET /static/grappelli/css/widgets.css HTTP/1.1" 200 9552
+[22/Dec/2014 11:13:55] "GET /static/grappelli/css/webkit-gradients.css HTTP/1.1" 200 7784
+[22/Dec/2014 11:13:55] "GET /static/mezzanine/js/admin/login.js HTTP/1.1" 200 421
+[22/Dec/2014 11:13:57] "GET /static/grappelli/img/grappelli-icon.png HTTP/1.1" 200 423
+[22/Dec/2014 11:13:59] "GET /favicon.ico/ HTTP/1.1" 404 1584
+[22/Dec/2014 11:14:17] "POST /admin/ HTTP/1.1" 302 0
+[22/Dec/2014 11:14:17] "GET /admin/ HTTP/1.1" 200 11450
+[22/Dec/2014 11:14:19] "GET /static/grappelli/css/dashboard.css HTTP/1.1" 200 5794
+[22/Dec/2014 11:14:19] "GET /static/mezzanine/css/admin/dashboard.css HTTP/1.1" 200 728
+[22/Dec/2014 11:14:19] "GET /static/mezzanine/js/admin/navigation.js HTTP/1.1" 200 3751
+[22/Dec/2014 11:14:19] "GET /static/mezzanine/js/admin/ajax_csrf.js HTTP/1.1" 200 138
+[22/Dec/2014 11:14:20] "GET /static/mezzanine/js/admin/collapse_backport.js HTTP/1.1" 200 1023
+[22/Dec/2014 11:14:20] "GET /static/grappelli/img/icons/icon-addlink.png HTTP/1.1" 200 166
+[22/Dec/2014 11:14:20] "GET /static/grappelli/img/icons/icon-changelink.png HTTP/1.1" 200 2925
+[22/Dec/2014 11:14:20] "GET /static/grappelli/img/icons/icon-actionlist_changelink.png HTTP/1.1" 200 132
+[22/Dec/2014 11:14:21] "GET /static/grappelli/img/icons/icon-actionlist_addlink.png HTTP/1.1" 200 152
+[22/Dec/2014 11:17:13] "GET /admin/pages/page/ HTTP/1.1" 200 19247
+[22/Dec/2014 11:17:14] "GET /static/grappelli/css/changelist.css HTTP/1.1" 200 9055
+[22/Dec/2014 11:17:14] "GET /static/mezzanine/css/admin/page_tree.css HTTP/1.1" 200 1298
+[22/Dec/2014 11:17:14] "GET /admin/jsi18n/ HTTP/1.1" 200 2528
+[22/Dec/2014 11:17:16] "GET /static/grappelli/js/admin/Changelist.js HTTP/1.1" 200 695
+[22/Dec/2014 11:17:16] "GET /static/mezzanine/js/admin/jquery.mjs.nestedSortable.js HTTP/1.1" 200 18701
+[22/Dec/2014 11:17:17] "GET /static/mezzanine/js/admin/page_tree.js HTTP/1.1" 200 3870
+[22/Dec/2014 11:17:17] "GET /static/grappelli/img/admin/arrow-up.gif HTTP/1.1" 200 838
+[22/Dec/2014 11:17:17] "GET /static/grappelli/img/admin/arrow-down.gif HTTP/1.1" 200 80
+[22/Dec/2014 11:17:54] "GET /static/mezzanine/js/jquery-ui-1.9.1.custom.min.js HTTP/1.1" 200 237176
+[22/Dec/2014 11:17:57] "GET /static/grappelli/img/icons/icon-inline_item_tools-deletelink.png HTTP/1.1" 200 237
+[22/Dec/2014 11:17:57] "GET /static/grappelli/img/admin/icon_deletelink.gif HTTP/1.1" 200 181
+[22/Dec/2014 11:56:33] "GET http://s1.bdstatic.com/r/www/cache/static/home/img/logos/nuomi_ade5465d.png HTTP/1.1" 404 1816
