@@ -1,0 +1,881 @@
+/srv/.virtualenv/tabono/local/lib/python2.7/site-packages/mezzanine/utils/conf.py:52: UserWarning: You haven't defined the ALLOWED_HOSTS settings, which Django 1.5 requires. Will fall back to the domains configured as sites.
+  warn("You haven't defined the ALLOWED_HOSTS settings, which "
+/srv/.virtualenv/tabono/local/lib/python2.7/site-packages/mezzanine/utils/conf.py:60: UserWarning: TIME_ZONE setting is not set, using closest match: Etc/UTC
+  warn("TIME_ZONE setting is not set, using closest match: %s" % tz)
+/srv/.virtualenv/tabono/local/lib/python2.7/site-packages/mezzanine/utils/conf.py:52: UserWarning: You haven't defined the ALLOWED_HOSTS settings, which Django 1.5 requires. Will fall back to the domains configured as sites.
+  warn("You haven't defined the ALLOWED_HOSTS settings, which "
+/srv/.virtualenv/tabono/local/lib/python2.7/site-packages/mezzanine/utils/conf.py:60: UserWarning: TIME_ZONE setting is not set, using closest match: Etc/UTC
+  warn("TIME_ZONE setting is not set, using closest match: %s" % tz)
+
+
+[m [0m[m [0m[m [0m[m [0m[m [0m[m [0m[m [0m[m [0m[m [0m[m [0m[m [0m[m [0m[m [0m[m [0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m
+[m [0m[m [0m[m [0m[m [0m[m [0m[m [0m[m [0m[m [0m[m [0m[m [0m[31m_[0m[31md[0m[31m^[0m[31m^[0m[31m^[0m[31m^[0m[31m^[0m[31m^[0m[31m^[0m[31m^[0m[31m^[0m[31mb[0m[31m_[0m
+[m [0m[m [0m[m [0m[m [0m[m [0m[m [0m[m [0m[31m.[0m[31md[0m[31m'[0m[31m'[0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[31m`[0m[31m`[0m[31mb[0m[31m.[0m
+[m [0m[m [0m[m [0m[m [0m[m [0m[31m.[0m[31mp[0m[31m'[0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[31m`[0m[31mq[0m[31m.[0m
+[m [0m[m [0m[m [0m[m [0m[31m.[0m[31md[0m[31m'[0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[31m`[0m[31mb[0m[31m.[0m
+[m [0m[m [0m[m [0m[31m.[0m[31md[0m[31m'[0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[31m`[0m[31mb[0m[31m.[0m[m [0m[m [0m[m [0m[31m*[0m[m [0m[mM[0m[me[0m[mz[0m[mz[0m[ma[0m[mn[0m[mi[0m[mn[0m[me[0m[m [0m[m3[0m[m.[0m[m1[0m[m.[0m[m1[0m[m0[0m
+[m [0m[m [0m[m [0m[31m:[0m[31m:[0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[31m:[0m[31m:[0m[m [0m[m [0m[m [0m[31m*[0m[m [0m[mD[0m[mj[0m[ma[0m[mn[0m[mg[0m[mo[0m[m [0m[m1[0m[m.[0m[m6[0m[m.[0m[m8[0m
+[m [0m[m [0m[31m:[0m[31m:[0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1mM[0m[41;37;1m [0m[41;37;1mE[0m[41;37;1m [0m[41;37;1mZ[0m[41;37;1m [0m[41;37;1mZ[0m[41;37;1m [0m[41;37;1mA[0m[41;37;1m [0m[41;37;1mN[0m[41;37;1m [0m[41;37;1mI[0m[41;37;1m [0m[41;37;1mN[0m[41;37;1m [0m[41;37;1mE[0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[31m:[0m[31m:[0m[m [0m[m [0m[31m*[0m[m [0m[mP[0m[my[0m[mt[0m[mh[0m[mo[0m[mn[0m[m [0m[m2[0m[m.[0m[m7[0m[m.[0m[m6[0m
+[m [0m[m [0m[m [0m[31m:[0m[31m:[0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[31m:[0m[31m:[0m[m [0m[m [0m[m [0m[31m*[0m[m [0m[mS[0m[mQ[0m[mL[0m[mi[0m[mt[0m[me[0m[m [0m[m3[0m[m.[0m[m8[0m[m.[0m[m2[0m
+[m [0m[m [0m[m [0m[31m`[0m[31mp[0m[31m.[0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[41;37;1m [0m[31m.[0m[31mq[0m[31m'[0m[m [0m[m [0m[m [0m[31m*[0m[m [0m[mL[0m[mi[0m[mn[0m[mu[[19/Nov/2014 13:30:57] "GET /static/img/clients/client01.png HTTP/1.1" 304 0
+[19/Nov/2014 13:31:04] "GET /static/img/clients/client03.png HTTP/1.1" 304 0
+[19/Nov/2014 13:31:55] "GET /static/grappelli/img/icons/icon-changelink-hover.png HTTP/1.1" 200 2924
+[19/Nov/2014 13:31:58] "GET /admin/pages/page/4/?parent=2 HTTP/1.1" 302 0
+[19/Nov/2014 13:31:59] "GET /admin/pages/richtextpage/4/ HTTP/1.1" 200 13698
+[19/Nov/2014 13:32:00] "GET /static/grappelli/css/base.css HTTP/1.1" 304 0
+[19/Nov/2014 13:32:01] "GET /static/mezzanine/css/admin/global.css HTTP/1.1" 304 0
+[19/Nov/2014 13:32:01] "GET /static/mezzanine/chosen/chosen.css HTTP/1.1" 304 0
+[19/Nov/2014 13:32:01] "GET /static/mezzanine/js/jquery-1.7.1.min.js HTTP/1.1" 304 0
+[19/Nov/2014 13:32:01] "GET /admin/jsi18n/ HTTP/1.1" 200 2528
+[19/Nov/2014 13:32:01] "GET /static/grappelli/css/reset.css HTTP/1.1" 304 0
+[19/Nov/2014 13:32:01] "GET /static/grappelli/css/typography.css HTTP/1.1" 304 0
+[19/Nov/2014 13:32:02] "GET /static/grappelli/css/modules.css HTTP/1.1" 304 0
+[19/Nov/2014 13:32:02] "GET /static/grappelli/css/tables.css HTTP/1.1" 304 0
+[19/Nov/2014 13:32:02] "GET /static/grappelli/css/forms.css HTTP/1.1" 304 0
+[19/Nov/2014 13:32:02] "GET /static/grappelli/css/widgets.css HTTP/1.1" 304 0
+[19/Nov/2014 13:32:02] "GET /static/grappelli/css/webkit-gradients.css HTTP/1.1" 304 0
+[19/Nov/2014 13:32:03] "GET /static/mezzanine/js/admin/keywords_field.js HTTP/1.1" 200 2288
+[19/Nov/2014 13:32:04] "GET /static/grappelli/tinymce/jscripts/tiny_mce/tiny_mce.js HTTP/1.1" 304 0
+[19/Nov/2014 13:32:04] "GET /static/mezzanine/js/tinymce_setup.js HTTP/1.1" 304 0
+[19/Nov/2014 13:32:04] "GET /static/mezzanine/chosen/chosen-0.9.12.jquery.js HTTP/1.1" 304 0
+[19/Nov/2014 13:32:04] "GET /static/mezzanine/js/admin/navigation.js HTTP/1.1" 304 0
+[19/Nov/2014 13:32:05] "GET /static/mezzanine/js/admin/ajax_csrf.js HTTP/1.1" 304 0
+[19/Nov/2014 13:32:05] "GET /static/mezzanine/js/admin/collapse_backport.js HTTP/1.1" 304 0
+[19/Nov/2014 13:32:05] "GET /static/grappelli/img/grappelli-icon.png HTTP/1.1" 304 0
+[19/Nov/2014 13:32:06] "GET /static/grappelli/tinymce/jscripts/tiny_mce/langs/en.js HTTP/1.1" 304 0
+[19/Nov/2014 13:32:06] "GET /static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/editor_template.js HTTP/1.1" 304 0
+[19/Nov/2014 13:32:06] "GET /static/grappelli/tinymce/jscripts/tiny_mce/plugins/inlinepopups/editor_plugin.js HTTP/1.1" 304 0
+[19/Nov/2014 13:32:06] "GET /static/grappelli/tinymce/jscripts/tiny_mce/plugins/contextmenu/editor_plugin.js HTTP/1.1" 304 0
+[19/Nov/2014 13:32:07] "GET /static/grappelli/tinymce/jscripts/tiny_mce/plugins/tabfocus/editor_plugin.js HTTP/1.1" 304 0
+[19/Nov/2014 13:32:07] "GET /static/grappelli/tinymce/jscripts/tiny_mce/plugins/searchreplace/editor_plugin.js HTTP/1.1" 304 0
+[19/Nov/2014 13:32:07] "GET /static/grappelli/tinymce/jscripts/tiny_mce/plugins/fullscreen/editor_plugin.js HTTP/1.1" 304 0
+[19/Nov/2014 13:32:07] "GET /static/grappelli/tinymce/jscripts/tiny_mce/plugins/advimage/editor_plugin.js HTTP/1.1" 304 0
+[19/Nov/2014 13:32:07] "GET /static/grappelli/tinymce/jscripts/tiny_mce/plugins/advlink/editor_plugin.js HTTP/1.1" 304 0
+[19/Nov/2014 13:32:07] "GET /static/grappelli/tinymce/jscripts/tiny_mce/plugins/paste/editor_plugin.js HTTP/1.1" 304 0
+[19/Nov/2014 13:32:08] "GET /static/grappelli/tinymce/jscripts/tiny_mce/plugins/media/editor_plugin.js HTTP/1.1" 304 0
+[19/Nov/2014 13:32:08] "GET /static/grappelli/tinymce/jscripts/tiny_mce/plugins/table/editor_plugin.js HTTP/1.1" 304 0
+[19/Nov/2014 13:32:08] "GET /static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/langs/en.js HTTP/1.1" 304 0
+[19/Nov/2014 13:32:08] "GET /static/grappelli/img/icons/icon_fieldset_collapse-open.png HTTP/1.1" 200 192
+[19/Nov/2014 13:32:09] "GET /static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/thebigreason/ui.css HTTP/1.1" 304 0
+[19/Nov/2014 13:32:09] "GET /static/grappelli/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/window.css HTTP/1.1" 304 0
+[19/Nov/2014 13:32:09] "GET /static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/thebigreason/content.css HTTP/1.1" 304 0
+[19/Nov/2014 13:32:09] "GET /static/mezzanine/css/tinymce.css HTTP/1.1" 304 0
+[19/Nov/2014 13:32:10] "GET /static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/thebigreason/img/toolbar-bg.png HTTP/1.1" 200 143
+[19/Nov/2014 13:32:10] "GET /static/grappelli/img/icons/icon-clock.png HTTP/1.1" 304 0
+[19/Nov/2014 13:32:10] "GET /static/grappelli/img/icons/icon-calendar.png HTTP/1.1" 304 0
+[19/Nov/2014 13:32:11] "GET /static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/thebigreason/img/icons.png HTTP/1.1" 200 23784
+[19/Nov/2014 13:32:23] "GET /asset_proxy/?u=http://54.148.173.75/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advimage/image.htm HTTP/1.1" 200 11941
+[19/Nov/2014 13:32:23] "GET /static/grappelli/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/corners.gif HTTP/1.1" 200 909
+[19/Nov/2014 13:32:23] "GET /static/grappelli/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/horizontal.gif HTTP/1.1" 200 769
+[19/Nov/2014 13:32:23] "GET /static/grappelli/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/vertical.gif HTTP/1.1" 200 84
+[19/Nov/2014 13:32:23] "GET /static/grappelli/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/buttons.gif HTTP/1.1" 200 1195
+[19/Nov/2014 13:32:23] "GET /static/grappelli/tinymce/jscripts/tiny_mce/tiny_mce_popup.js HTTP/1.1" 200 5345
+[19/Nov/2014 13:32:24] "GET /static/grappelli/tinymce/jscripts/tiny_mce/plugins/advimage/css/advimage.css HTTP/1.1" 200 672
+[19/Nov/2014 13:32:24] "GET /static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/thebigreason/dialog.css HTTP/1.1" 200 4763
+[19/Nov/2014 13:32:24] "GET /static/grappelli/tinymce/jscripts/tiny_mce/utils/mctabs.js HTTP/1.1" 200 4055
+[19/Nov/2014 13:32:24] "GET /static/grappelli/tinymce/jscripts/tiny_mce/utils/form_utils.js HTTP/1.1" 200 5991
+[19/Nov/2014 13:32:24] "GET /static/grappelli/tinymce/jscripts/tiny_mce/utils/validate.js HTTP/1.1" 200 6100
+[19/Nov/2014 13:32:24] "GET /static/grappelli/tinymce/jscripts/tiny_mce/utils/editable_selects.js HTTP/1.1" 200 2046
+[19/Nov/2014 13:32:25] "GET /static/grappelli/tinymce/jscripts/tiny_mce/plugins/advimage/js/image.js HTTP/1.1" 200 12806
+[19/Nov/2014 13:32:25] "GET /static/grappelli/tinymce/jscripts/tiny_mce/plugins/advimage/img/sample.gif HTTP/1.1" 200 1624
+[19/Nov/2014 13:32:26] "GET /static/grappelli/tinymce/jscripts/tiny_mce/plugins/advimage/langs/en_dlg.js HTTP/1.1" 200 1270
+[19/Nov/2014 13:32:27] "GET /static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/thebigreason/img/button-bg.png HTTP/1.1" 200 296
+[19/Nov/2014 15:21:03] "HEAD / HTTP/1.1" 200 0
+[19/Nov/2014 18:49:43] "GET / HTTP/1.1" 200 21334
+[19/Nov/2014 18:49:44] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 17780
+[19/Nov/2014 18:49:44] "GET /static/css/style.css HTTP/1.1" 200 8013
+[19/Nov/2014 18:49:44] "GET /static/css/mezzanine.css HTTP/1.1" 200 10664
+[19/Nov/2014 18:49:46] "GET /static/js/bootstrap.js HTTP/1.1" 200 58533
+[19/Nov/2014 18:49:47] "GET /static/js/bootstrap-extras.js HTTP/1.1" 200 2841
+[19/Nov/2014 18:49:48] "GET /static/css/bootstrap.css HTTP/1.1" 200 121220
+[19/Nov/2014 18:49:48] "GET /static/js/jquery.hoverdir.js HTTP/1.1" 200 5307
+[19/Nov/2014 18:49:48] "GET /static/js/jquery.hoverex.min.js HTTP/1.1" 200 3768
+[19/Nov/2014 18:49:48] "GET /static/js/custom.js HTTP/1.1" 200 368
+[19/Nov/2014 18:49:48] "GET /static/mezzanine/js/jquery-1.7.1.min.js HTTP/1.1" 200 93868
+[19/Nov/2014 18:49:49] "GET /static/js/retina-1.1.0.js HTTP/1.1" 200 3995
+[19/Nov/2014 18:49:49] "GET /static/js/jquery.prettyPhoto.js HTTP/1.1" 200 22060
+[19/Nov/2014 18:49:52] "GET /static/css/prettyPhoto.css HTTP/1.1" 200 19788
+[19/Nov/2014 18:49:52] "GET /static/js/jquery.isotope.min.js HTTP/1.1" 200 16033
+[19/Nov/2014 18:49:53] "GET /static/css/hoverex-all.css HTTP/1.1" 200 50809
+[19/Nov/2014 18:49:53] "GET /static/img/portfolio/portfolio_05.jpg HTTP/1.1" 200 52365
+[19/Nov/2014 18:49:54] "GET /static/img/portfolio/portfolio_09.jpg HTTP/1.1" 200 111245
+[19/Nov/2014 18:49:54] "GET /static/img/clients/client01.png HTTP/1.1" 200 8150
+[19/Nov/2014 18:49:55] "GET /static/img/clients/client03.png HTTP/1.1" 200 4296
+[19/Nov/2014 18:49:55] "GET /static/img/portfolio/portfolio_07.jpg HTTP/1.1" 200 66187
+[19/Nov/2014 18:49:55] "GET /static/img/portfolio/portfolio_03.jpg HTTP/1.1" 200 83259
+[19/Nov/2014 18:49:58] "GET /static/img/portfolio/portfolio_04.jpg HTTP/1.1" 200 39249
+[19/Nov/2014 18:49:59] "GET /static/img/portfolio/portfolio_01.jpg HTTP/1.1" 200 74382
+[19/Nov/2014 18:50:03] "GET /static/img/clients/client04.png HTTP/1.1" 200 6169
+[19/Nov/2014 18:50:04] "GET /static/img/clients/client02.png HTTP/1.1" 200 5036
+[19/Nov/2014 18:50:05] "GET /static/img/portfolio/portfolio_08.jpg HTTP/1.1" 200 49061
+[19/Nov/2014 18:50:11] "GET /static/img/portfolio/portfolio_10.jpg HTTP/1.1" 200 54124
+[19/Nov/2014 18:50:16] "GET /static/img/portfolio/portfolio_06.jpg HTTP/1.1" 200 109239
+[19/Nov/2014 18:50:17] "GET /static/img/browser.png HTTP/1.1" 200 215866
+[19/Nov/2014 18:50:23] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+[19/Nov/2014 18:50:27] "GET /static/img/portfolio/portfolio_02.jpg HTTP/1.1" 200 81194
+[19/Nov/2014 18:50:29] "GET /static/img/t-back.jpg HTTP/1.1" 200 246480
+[19/Nov/2014 23:34:22] "GET /manager/html HTTP/1.1" 301 0
+[19/Nov/2014 23:34:22] "GET /manager/html/ HTTP/1.1" 404 1586
+[20/Nov/2014 07:06:01] "GET /tmUnblock.cgi HTTP/1.1" 301 0
+[20/Nov/2014 08:51:32] "GET / HTTP/1.1" 200 22706
+[20/Nov/2014 08:51:32] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+[20/Nov/2014 08:51:32] "GET /static/css/mezzanine.css HTTP/1.1" 304 0
+[20/Nov/2014 08:51:32] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+[20/Nov/2014 08:51:32] "GET /static/css/style.css HTTP/1.1" 304 0
+[20/Nov/2014 08:51:32] "GET /static/mezzanine/js/jquery-1.7.1.min.js HTTP/1.1" 304 0
+[20/Nov/2014 08:51:33] "GET /static/mezzanine/css/editable.css HTTP/1.1" 304 0
+[20/Nov/2014 08:51:33] "GET /static/css/prettyPhoto.css HTTP/1.1" 304 0
+[20/Nov/2014 08:51:33] "GET /static/css/hoverex-all.css HTTP/1.1" 304 0
+[20/Nov/2014 08:51:34] "GET /static/js/bootstrap-extras.js HTTP/1.1" 304 0
+[20/Nov/2014 08:51:34] "GET /static/grappelli/tinymce/jscripts/tiny_mce/tiny_mce.js HTTP/1.1" 304 0
+[20/Nov/2014 08:51:34] "GET /static/mezzanine/js/tinymce_setup.js HTTP/1.1" 304 0
+[20/Nov/2014 08:51:34] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+[20/Nov/2014 08:51:35] "GET /static/mezzanine/js/jquery.tools.toolbox.expose.js HTTP/1.1" 304 0
+[20/Nov/2014 08:51:35] "GET /static/mezzanine/js/jquery.tools.overlay.js HTTP/1.1" 304 0
+[20/Nov/2014 08:51:35] "GET /static/mezzanine/js/jquery.form.js HTTP/1.1" 304 0
+[20/Nov/2014 08:51:35] "GET /static/mezzanine/js/editable.js HTTP/1.1" 304 0
+[20/Nov/2014 08:51:35] "GET /static/js/retina-1.1.0.js HTTP/1.1" 304 0
+[20/Nov/2014 08:51:36] "GET /static/js/jquery.hoverdir.js HTTP/1.1" 304 0
+[20/Nov/2014 08:51:36] "GET /static/js/jquery.hoverex.min.js HTTP/1.1" 304 0
+[20/Nov/2014 08:51:36] "GET /static/js/jquery.prettyPhoto.js HTTP/1.1" 304 0
+[20/Nov/2014 08:51:36] "GET /static/js/jquery.isotope.min.js HTTP/1.1" 304 0
+[20/Nov/2014 08:51:36] "GET /static/js/custom.js HTTP/1.1" 304 0
+[20/Nov/2014 08:51:36] "GET /static/img/browser.png HTTP/1.1" 304 0
+[20/Nov/2014 08:51:37] "GET /static/img/portfolio/portfolio_09.jpg HTTP/1.1" 304 0
+[20/Nov/2014 08:51:37] "GET /static/img/portfolio/portfolio_02.jpg HTTP/1.1" 304 0
+[20/Nov/2014 09:44:29] "GET /admin/ HTTP/1.1" 200 3910
+[20/Nov/2014 09:44:30] "GET /static/grappelli/css/base.css HTTP/1.1" 200 10876
+[20/Nov/2014 09:44:30] "GET /static/grappelli/css/login.css HTTP/1.1" 200 980
+[20/Nov/2014 09:44:30] "GET /static/mezzanine/chosen/chosen.css HTTP/1.1" 200 15569
+[20/Nov/2014 09:44:30] "GET /static/mezzanine/css/admin/global.css HTTP/1.1" 200 6200
+[20/Nov/2014 09:44:30] "GET /static/mezzanine/chosen/chosen-0.9.12.jquery.js HTTP/1.1" 200 23739
+[20/Nov/2014 09:44:31] "GET /static/grappelli/css/reset.css HTTP/1.1" 200 724
+[20/Nov/2014 09:44:31] "GET /static/grappelli/css/typography.css HTTP/1.1" 200 7065
+[20/Nov/2014 09:44:31] "GET /static/grappelli/css/modules.css HTTP/1.1" 200 15465
+[20/Nov/2014 09:44:32] "GET /static/grappelli/css/tables.css HTTP/1.1" 200 3379
+[20/Nov/2014 09:44:32] "GET /static/grappelli/css/forms.css HTTP/1.1" 200 13762
+[20/Nov/2014 09:44:32] "GET /static/grappelli/css/widgets.css HTTP/1.1" 200 9552
+[20/Nov/2014 09:44:32] "GET /static/grappelli/css/webkit-gradients.css HTTP/1.1" 200 7784
+[20/Nov/2014 09:44:33] "GET /static/mezzanine/js/jquery-1.7.1.min.js HTTP/1.1" 200 93868
+[20/Nov/2014 09:44:33] "GET /static/mezzanine/js/admin/login.js HTTP/1.1" 200 421
+[20/Nov/2014 09:44:34] "GET /static/grappelli/img/grappelli-icon.png HTTP/1.1" 200 423
+[20/Nov/2014 09:44:35] "GET /favicon.ico/ HTTP/1.1" 404 1584
+[20/Nov/2014 09:44:54] "POST /admin/ HTTP/1.1" 302 0
+[20/Nov/2014 09:44:55] "GET /admin/ HTTP/1.1" 200 11093
+[20/Nov/2014 09:44:55] "GET /static/grappelli/css/dashboard.css HTTP/1.1" 200 5794
+[20/Nov/2014 09:44:56] "GET /static/mezzanine/css/admin/dashboard.css HTTP/1.1" 200 728
+[20/Nov/2014 09:44:56] "GET /static/mezzanine/js/admin/navigation.js HTTP/1.1" 200 3751
+[20/Nov/2014 09:44:56] "GET /static/mezzanine/js/admin/ajax_csrf.js HTTP/1.1" 200 138
+[20/Nov/2014 09:44:56] "GET /static/mezzanine/js/admin/collapse_backport.js HTTP/1.1" 200 1023
+[20/Nov/2014 09:44:57] "GET /static/grappelli/img/icons/icon-addlink.png HTTP/1.1" 200 166
+[20/Nov/2014 09:44:57] "GET /static/grappelli/img/icons/icon-changelink.png HTTP/1.1" 200 2925
+[20/Nov/2014 09:45:05] "GET / HTTP/1.1" 200 22706
+[20/Nov/2014 09:45:06] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 17780
+[20/Nov/2014 09:45:06] "GET /static/css/mezzanine.css HTTP/1.1" 200 10664
+[20/Nov/2014 09:45:06] "GET /static/css/style.css HTTP/1.1" 200 8013
+[20/Nov/2014 09:45:07] "GET /static/mezzanine/css/editable.css HTTP/1.1" 200 2419
+[20/Nov/2014 09:45:07] "GET /static/js/bootstrap.js HTTP/1.1" 200 58533
+[20/Nov/2014 09:45:07] "GET /static/css/prettyPhoto.css HTTP/1.1" 200 19788
+[20/Nov/2014 09:45:08] "GET /static/js/bootstrap-extras.js HTTP/1.1" 200 2841
+[20/Nov/2014 09:45:08] "GET /static/css/hoverex-all.css HTTP/1.1" 200 50809
+[20/Nov/2014 09:45:09] "GET /static/mezzanine/js/tinymce_setup.js HTTP/1.1" 200 3760
+[20/Nov/2014 09:45:09] "GET /static/mezzanine/js/jquery.tools.toolbox.expose.js HTTP/1.1" 200 4482
+[20/Nov/2014 09:45:09] "GET /static/mezzanine/js/jquery.tools.overlay.js HTTP/1.1" 200 6401
+[20/Nov/2014 09:45:10] "GET /static/mezzanine/js/editable.js HTTP/1.1" 200 3785
+[20/Nov/2014 09:45:10] "GET /static/js/retina-1.1.0.js HTTP/1.1" 200 3995
+[20/Nov/2014 09:45:10] "GET /static/mezzanine/js/jquery.form.js HTTP/1.1" 200 37247
+[20/Nov/2014 09:45:10] "GET /static/js/jquery.hoverdir.js HTTP/1.1" 200 5307
+[20/Nov/2014 09:45:11] "GET /static/js/jquery.hoverex.min.js HTTP/1.1" 200 3768
+[20/Nov/2014 09:45:11] "GET /static/grappelli/tinymce/jscripts/tiny_mce/tiny_mce.js HTTP/1.1" 200 204316
+[20/Nov/2014 09:45:11] "GET /static/js/jquery.prettyPhoto.js HTTP/1.1" 200 22060
+[20/Nov/2014 09:45:11] "GET /static/css/bootstrap.css HTTP/1.1" 200 121220
+[20/Nov/2014 09:45:11] "GET /static/js/jquery.isotope.min.js HTTP/1.1" 200 16033
+[20/Nov/2014 09:45:12] "GET /static/js/custom.js HTTP/1.1" 200 368
+[20/Nov/2014 09:45:14] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+[20/Nov/2014 09:45:14] "GET /static/img/portfolio/portfolio_04.jpg HTTP/1.1" 200 39249
+[20/Nov/2014 09:45:14] "GET /static/img/portfolio/portfolio_02.jpg HTTP/1.1" 200 81194
+[20/Nov/2014 09:45:14] "GET /static/img/portfolio/portfolio_03.jpg HTTP/1.1" 200 83259
+[20/Nov/2014 09:45:15] "GET /static/img/portfolio/portfolio_09.jpg HTTP/1.1" 200 111245
+[20/Nov/2014 09:45:16] "GET /static/img/browser.png HTTP/1.1" 200 215866
+[20/Nov/2014 09:45:18] "GET /static/img/portfolio/portfolio_05.jpg HTTP/1.1" 200 52365
+[20/Nov/2014 09:45:18] "GET /static/img/portfolio/portfolio_08.jpg HTTP/1.1" 200 49061
+[20/Nov/2014 09:45:18] "GET /static/img/portfolio/portfolio_07.jpg HTTP/1.1" 200 66187
+[20/Nov/2014 09:45:19] "GET /static/img/portfolio/portfolio_10.jpg HTTP/1.1" 200 54124
+[20/Nov/2014 09:45:19] "GET /static/img/portfolio/portfolio_01.jpg HTTP/1.1" 200 74382
+[20/Nov/2014 09:45:21] "GET /static/img/portfolio/portfolio_06.jpg HTTP/1.1" 200 109239
+[20/Nov/2014 09:45:21] "GET /static/img/clients/client01.png HTTP/1.1" 200 8150
+[20/Nov/2014 09:45:21] "GET /static/img/clients/client02.png HTTP/1.1" 200 5036
+[20/Nov/2014 09:45:21] "GET /static/img/clients/client03.png HTTP/1.1" 200 4296
+[20/Nov/2014 09:45:22] "GET /static/img/clients/client04.png HTTP/1.1" 200 6169
+[20/Nov/2014 09:45:22] "GET /static/mezzanine/img/loadingAnimation.gif HTTP/1.1" 200 5886
+[20/Nov/2014 09:45:27] "GET /static/img/t-back.jpg HTTP/1.1" 200 246480
+[20/Nov/2014 09:45:28] "GET /static/img/favicon.ico HTTP/1.1" 200 318
+[20/Nov/2014 09:45:46] "GET / HTTP/1.1" 200 22706
+[20/Nov/2014 09:46:01] "GET /admin/ HTTP/1.1" 200 11093
+[20/Nov/2014 12:51:58] "GET /manager/html HTTP/1.1" 301 0
+[20/Nov/2014 15:49:15] "GET http://www.teddybrinkofski.com/ip_json.php HTTP/1.1" 404 1725
+[20/Nov/2014 20:55:59] "GET / HTTP/1.1" 200 21334
+[20/Nov/2014 23:44:47] "GET http://www.baidu.com/ HTTP/1.1" 404 1652
+[21/Nov/2014 00:53:36] "GET /manager/html HTTP/1.1" 301 0
+[21/Nov/2014 00:53:37] "GET /manager/html/ HTTP/1.1" 404 1586
+[21/Nov/2014 05:05:37] "GET /manager/html HTTP/1.1" 301 0
+[21/Nov/2014 05:05:37] "GET /manager/html/ HTTP/1.1" 404 1586
+[21/Nov/2014 10:18:48] "GET /manager/html HTTP/1.1" 301 0
+[21/Nov/2014 10:18:49] "GET /manager/html/ HTTP/1.1" 404 1586
+[21/Nov/2014 13:13:56] "GET /tmUnblock.cgi HTTP/1.1" 301 0
+[21/Nov/2014 16:39:36] "GET /manager/html HTTP/1.1" 301 0
+[21/Nov/2014 16:39:36] "GET /manager/html/ HTTP/1.1" 404 1586
+[21/Nov/2014 17:13:14] "GET / HTTP/1.1" 200 21334
+[21/Nov/2014 21:51:58] "GET /manager/html HTTP/1.1" 301 0
+[21/Nov/2014 21:51:58] "GET /manager/html/ HTTP/1.1" 404 1586
+[22/Nov/2014 02:51:05] "GET / HTTP/1.1" 200 21334
+[22/Nov/2014 10:04:26] "GET /tmUnblock.cgi HTTP/1.1" 301 0
+[22/Nov/2014 18:24:15] "GET / HTTP/1.1" 200 21334
+[22/Nov/2014 23:00:23] "GET /manager/html HTTP/1.1" 301 0
+[22/Nov/2014 23:00:23] "GET /manager/html/ HTTP/1.1" 404 1586
+[23/Nov/2014 05:45:53] "GET /tmUnblock.cgi HTTP/1.1" 301 0
+[23/Nov/2014 08:36:33] "GET / HTTP/1.0" 200 21334
+[23/Nov/2014 11:45:53] "GET http://6.url.cn/zc/chs/img/body.png HTTP/1.1" 404 1689
+[24/Nov/2014 04:40:35] "GET /manager/html HTTP/1.1" 301 0
+[24/Nov/2014 04:40:35] "GET /manager/html/ HTTP/1.1" 404 1586
+[24/Nov/2014 05:24:23] "GET /manager/html HTTP/1.1" 301 0
+[24/Nov/2014 05:24:23] "GET /manager/html/ HTTP/1.1" 404 1586
+[24/Nov/2014 06:32:45] "HEAD /rom-0 HTTP/1.1" 301 0
+[24/Nov/2014 08:12:57] "GET /manager/html HTTP/1.1" 301 0
+[24/Nov/2014 11:50:29] "GET http://6.url.cn/zc/chs/img/body.png HTTP/1.1" 404 1689
+[24/Nov/2014 12:50:05] "GET / HTTP/1.1" 200 21334
+[24/Nov/2014 14:49:25] "HEAD / HTTP/1.1" 200 0
+[25/Nov/2014 01:14:06] "GET /manager/html HTTP/1.1" 301 0
+[25/Nov/2014 02:24:44] "GET / HTTP/1.0" 200 21334
+[25/Nov/2014 07:57:47] "GET /manager/html HTTP/1.1" 301 0
+[25/Nov/2014 11:55:10] "GET /manager/html HTTP/1.1" 301 0
+[25/Nov/2014 12:18:09] "GET http://6.url.cn/zc/chs/img/body.png HTTP/1.1" 404 1689
+[25/Nov/2014 13:03:38] "GET / HTTP/1.1" 200 21334
+[25/Nov/2014 13:03:38] "GET / HTTP/1.1" 200 21334
+[25/Nov/2014 13:09:47] "GET / HTTP/1.1" 200 21334
+[25/Nov/2014 16:28:17] "GET /manager/html HTTP/1.1" 301 0
+[25/Nov/2014 16:28:18] "GET /manager/html/ HTTP/1.1" 404 1586
+[25/Nov/2014 19:31:40] "GET http://www.baidu.com/ HTTP/1.1" 404 1652
+[25/Nov/2014 19:57:52] "GET /tmUnblock.cgi HTTP/1.1" 301 0
+[26/Nov/2014 00:56:09] "GET / HTTP/1.1" 200 21334
+[26/Nov/2014 08:06:30] "GET /tmUnblock.cgi HTTP/1.1" 301 0
+[26/Nov/2014 11:52:44] "GET /manager/html HTTP/1.1" 301 0
+[26/Nov/2014 11:52:45] "GET /manager/html/ HTTP/1.1" 404 1586
+[26/Nov/2014 12:04:27] "GET /manager/html HTTP/1.1" 301 0
+[26/Nov/2014 13:18:37] "GET /manager/html HTTP/1.1" 301 0
+[26/Nov/2014 13:18:38] "GET /manager/html/ HTTP/1.1" 404 1586
+[26/Nov/2014 14:45:44] "HEAD / HTTP/1.1" 200 0
+[27/Nov/2014 02:36:57] "GET /manager/html HTTP/1.1" 301 0
+[27/Nov/2014 02:36:57] "GET /manager/html/ HTTP/1.1" 404 1586
+[27/Nov/2014 04:17:13] "GET /manager/html HTTP/1.1" 301 0
+[27/Nov/2014 10:06:29] "GET /wp-login.php HTTP/1.1" 301 0
+[27/Nov/2014 10:34:06] "GET /wp-login.php HTTP/1.1" 301 0
+[27/Nov/2014 13:18:20] "GET /tmUnblock.cgi HTTP/1.1" 301 0
+[27/Nov/2014 19:56:51] "GET /manager/html HTTP/1.1" 301 0
+[27/Nov/2014 19:56:51] "GET /manager/html/ HTTP/1.1" 404 1586
+[27/Nov/2014 20:25:49] "GET /tmUnblock.cgi HTTP/1.1" 301 0
+[27/Nov/2014 22:05:14] "GET /manager/html HTTP/1.1" 301 0
+[27/Nov/2014 22:05:15] "GET /manager/html/ HTTP/1.1" 404 1586
+[28/Nov/2014 00:05:49] "GET /manager/html HTTP/1.1" 301 0
+[28/Nov/2014 00:05:50] "GET /manager/html/ HTTP/1.1" 404 1586
+[28/Nov/2014 01:11:56] "GET //cgi-bin/test-cgi HTTP/1.1" 301 0
+[28/Nov/2014 01:11:56] "GET //cgi-sys/realsignup.cgi HTTP/1.1" 301 0
+[28/Nov/2014 03:50:51] "GET / HTTP/1.1" 200 21334
+[28/Nov/2014 03:50:52] "OPTIONS / HTTP/1.1" 200 21334
+[28/Nov/2014 03:50:52] "GET /Robots.txt HTTP/1.1" 301 0
+[28/Nov/2014 03:50:52] "GET /SiteMap.xml HTTP/1.1" 301 0
+[28/Nov/2014 03:50:53] "POST / HTTP/1.1" 403 2282
+[28/Nov/2014 11:40:18] "GET /manager/html HTTP/1.1" 301 0
+[28/Nov/2014 14:44:37] "HEAD / HTTP/1.1" 200 0
+[28/Nov/2014 16:39:47] "GET /manager/html HTTP/1.1" 301 0
+[28/Nov/2014 16:39:47] "GET /manager/html/ HTTP/1.1" 404 1586
+[28/Nov/2014 17:23:24] "GET /w00tw00t.at.blackhats.romanian.anti-sec:) HTTP/1.1" 301 0
+[28/Nov/2014 17:23:25] "GET /phpMyAdmin/scripts/setup.php HTTP/1.1" 301 0
+[28/Nov/2014 17:23:25] "GET /phpmyadmin/scripts/setup.php HTTP/1.1" 301 0
+[28/Nov/2014 17:23:26] "GET /pma/scripts/setup.php HTTP/1.1" 301 0
+[28/Nov/2014 17:23:27] "GET /myadmin/scripts/setup.php HTTP/1.1" 301 0
+[28/Nov/2014 17:23:27] "GET /MyAdmin/scripts/setup.php HTTP/1.1" 301 0
+[29/Nov/2014 01:14:35] "GET / HTTP/1.0" 200 21334
+[29/Nov/2014 03:13:12] "GET /manager/html HTTP/1.1" 301 0
+[29/Nov/2014 03:13:13] "GET /manager/html/ HTTP/1.1" 404 1586
+[29/Nov/2014 07:52:50] "GET /w00tw00t.at.blackhats.romanian.anti-sec:) HTTP/1.1" 301 0
+[29/Nov/2014 07:52:50] "GET /phpMyAdmin/scripts/setup.php HTTP/1.1" 301 0
+[29/Nov/2014 07:52:50] "GET /phpmyadmin/scripts/setup.php HTTP/1.1" 301 0
+[29/Nov/2014 07:52:51] "GET /pma/scripts/setup.php HTTP/1.1" 301 0
+[29/Nov/2014 07:52:51] "GET /myadmin/scripts/setup.php HTTP/1.1" 301 0
+[29/Nov/2014 07:52:52] "GET /MyAdmin/scripts/setup.php HTTP/1.1" 301 0
+[29/Nov/2014 08:35:50] "GET / HTTP/1.0" 200 21334
+[29/Nov/2014 09:54:14] "GET /manager/html HTTP/1.1" 301 0
+[29/Nov/2014 09:54:15] "GET /manager/html/ HTTP/1.1" 404 1586
+[29/Nov/2014 13:07:11] "GET /manager/html HTTP/1.1" 301 0
+[29/Nov/2014 19:34:41] "GET http://www.baidu.com/ HTTP/1.1" 404 1652
+[01/Dec/2014 07:07:00] "GET /tmUnblock.cgi HTTP/1.1" 301 0
+[01/Dec/2014 16:14:05] "GET http://6.url.cn/zc/chs/img/body.png HTTP/1.1" 404 1689
+[01/Dec/2014 18:43:43] "GET / HTTP/1.1" 200 21334
+[01/Dec/2014 18:43:44] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+[01/Dec/2014 18:43:44] "GET /static/css/mezzanine.css HTTP/1.1" 304 0
+[01/Dec/2014 18:43:44] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+[01/Dec/2014 18:43:44] "GET /static/css/style.css HTTP/1.1" 304 0
+[01/Dec/2014 18:43:44] "GET /static/mezzanine/js/jquery-1.7.1.min.js HTTP/1.1" 304 0
+[01/Dec/2014 18:43:45] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+[01/Dec/2014 18:43:46] "GET /static/js/jquery.prettyPhoto.js HTTP/1.1" 304 0
+[01/Dec/2014 18:43:46] "GET /static/js/jquery.hoverdir.js HTTP/1.1" 304 0
+[01/Dec/2014 18:43:46] "GET /static/js/custom.js HTTP/1.1" 304 0
+[01/Dec/2014 18:43:46] "GET /static/js/bootstrap-extras.js HTTP/1.1" 304 0
+[01/Dec/2014 18:43:46] "GET /static/css/prettyPhoto.css HTTP/1.1" 304 0
+[01/Dec/2014 18:43:47] "GET /static/css/hoverex-all.css HTTP/1.1" 304 0
+[01/Dec/2014 18:43:48] "GET /static/js/jquery.hoverex.min.js HTTP/1.1" 200 3768
+[01/Dec/2014 18:43:48] "GET /static/js/retina-1.1.0.js HTTP/1.1" 304 0
+[01/Dec/2014 18:43:48] "GET /static/img/portfolio/portfolio_09.jpg HTTP/1.1" 304 0
+[01/Dec/2014 18:43:48] "GET /static/js/jquery.isotope.min.js HTTP/1.1" 304 0
+[01/Dec/2014 18:43:48] "GET /static/img/portfolio/portfolio_03.jpg HTTP/1.1" 304 0
+[01/Dec/2014 18:43:49] "GET /static/img/portfolio/portfolio_05.jpg HTTP/1.1" 304 0
+[01/Dec/2014 18:43:50] "GET /static/img/portfolio/portfolio_07.jpg HTTP/1.1" 304 0
+[01/Dec/2014 18:43:50] "GET /static/img/clients/client01.png HTTP/1.1" 304 0
+[01/Dec/2014 18:43:50] "GET /static/img/portfolio/portfolio_01.jpg HTTP/1.1" 304 0
+[01/Dec/2014 18:43:50] "GET /static/img/clients/client03.png HTTP/1.1" 304 0
+[01/Dec/2014 18:43:50] "GET /static/img/browser.png HTTP/1.1" 304 0
+[01/Dec/2014 18:43:51] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+[01/Dec/2014 18:43:51] "GET /static/img/portfolio/portfolio_10.jpg HTTP/1.1" 304 0
+[01/Dec/2014 18:43:51] "GET /static/img/portfolio/portfolio_06.jpg HTTP/1.1" 304 0
+[01/Dec/2014 18:43:51] "GET /static/img/t-back.jpg HTTP/1.1" 304 0
+[01/Dec/2014 18:43:51] "GET /static/img/portfolio/portfolio_08.jpg HTTP/1.1" 304 0
+[01/Dec/2014 18:43:51] "GET /static/img/portfolio/portfolio_02.jpg HTTP/1.1" 304 0
+[01/Dec/2014 18:43:51] "GET /static/img/clients/client04.png HTTP/1.1" 304 0
+[01/Dec/2014 18:43:52] "GET /static/img/clients/client02.png HTTP/1.1" 304 0
+[01/Dec/2014 18:43:52] "GET /static/img/portfolio/portfolio_04.jpg HTTP/1.1" 304 0
+[01/Dec/2014 18:43:53] "HEAD /static/img/portfolio/portfolio_02@2x.jpg HTTP/1.1" 404 1703
+[01/Dec/2014 18:43:53] "HEAD /static/img/portfolio/portfolio_04@2x.jpg HTTP/1.1" 404 1703
+[01/Dec/2014 18:43:53] "HEAD /static/img/browser@2x.png HTTP/1.1" 404 1658
+[01/Dec/2014 18:43:53] "HEAD /static/img/portfolio/portfolio_03@2x.jpg HTTP/1.1" 404 1703
+[01/Dec/2014 18:43:53] "HEAD /static/img/portfolio/portfolio_09@2x.jpg HTTP/1.1" 404 1703
+[01/Dec/2014 18:43:53] "HEAD /static/img/portfolio/portfolio_05@2x.jpg HTTP/1.1" 404 1703
+[01/Dec/2014 18:43:54] "HEAD /static/img/portfolio/portfolio_10@2x.jpg HTTP/1.1" 404 1703
+[01/Dec/2014 18:43:54] "HEAD /static/img/clients/client02@2x.png HTTP/1.1" 404 1685
+[01/Dec/2014 18:43:54] "HEAD /static/img/portfolio/portfolio_06@2x.jpg HTTP/1.1" 404 1703
+[01/Dec/2014 18:43:54] "HEAD /static/img/portfolio/portfolio_07@2x.jpg HTTP/1.1" 404 1703
+[01/Dec/2014 18:43:54] "HEAD /static/img/clients/client04@2x.png HTTP/1.1" 404 1685
+[01/Dec/2014 18:43:54] "HEAD /static/img/portfolio/portfolio_01@2x.jpg HTTP/1.1" 404 1703
+[01/Dec/2014 18:43:55] "HEAD /static/img/clients/client01@2x.png HTTP/1.1" 404 1685
+[01/Dec/2014 18:43:55] "HEAD /static/img/clients/client03@2x.png HTTP/1.1" 404 1685
+[01/Dec/2014 18:43:55] "HEAD /static/img/portfolio/portfolio_08@2x.jpg HTTP/1.1" 404 1703
+[01/Dec/2014 19:43:07] "GET /admin/config.php HTTP/1.1" 301 0
+[01/Dec/2014 23:50:28] "GET /phpmyadmin/scripts/setup.php HTTP/1.0" 301 0
+[02/Dec/2014 03:28:13] "GET /phpmyadmin/scripts/setup.php HTTP/1.0" 301 0
+[02/Dec/2014 17:26:32] "HEAD / HTTP/1.1" 200 0
+[03/Dec/2014 05:49:18] "GET http://6.url.cn/zc/chs/img/body.png HTTP/1.1" 404 1689
+[03/Dec/2014 17:16:28] "GET /w00tw00t.at.blackhats.romanian.anti-sec:) HTTP/1.1" 301 0
+[03/Dec/2014 17:16:29] "GET /phpMyAdmin/scripts/setup.php HTTP/1.1" 301 0
+[03/Dec/2014 17:16:29] "GET /phpmyadmin/scripts/setup.php HTTP/1.1" 301 0
+[03/Dec/2014 17:16:29] "GET /pma/scripts/setup.php HTTP/1.1" 301 0
+[03/Dec/2014 17:16:30] "GET /myadmin/scripts/setup.php HTTP/1.1" 301 0
+[03/Dec/2014 17:16:30] "GET /MyAdmin/scripts/setup.php HTTP/1.1" 301 0
+[03/Dec/2014 17:38:53] "POST / HTTP/1.1" 403 2282
+[03/Dec/2014 20:01:04] "POST /cgi-bin/php5?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E HTTP/1.1" 500 60188
+[03/Dec/2014 20:01:05] "POST /cgi-bin/php.cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E HTTP/1.1" 500 60236
+[03/Dec/2014 20:01:06] "POST /cgi-bin/php-cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E HTTP/1.1" 500 60236
+[03/Dec/2014 20:01:07] "POST /cgi-bin/php?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E HTTP/1.1" 500 60172
+[03/Dec/2014 20:01:08] "POST /cgi-bin/php4?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E HTTP/1.1" 500 60188
+[04/Dec/2014 00:33:32] "GET / HTTP/1.1" 200 21334
+[04/Dec/2014 02:09:55] "GET / HTTP/1.1" 200 21334
+[04/Dec/2014 05:49:14] "GET http://s1.bdstatic.com/r/www/cache/static/home/img/logos/nuomi_ade5465d.png HTTP/1.1" 404 1816
+[04/Dec/2014 10:54:29] "OPTIONS / HTTP/1.1" 200 21334
+[04/Dec/2014 12:16:12] "GET / HTTP/1.1" 200 21334
+[04/Dec/2014 15:18:54] "GET /user/ HTTP/1.1" 404 1570
+[05/Dec/2014 01:22:44] "GET /w00tw00t.at.blackhats.romanian.anti-sec:) HTTP/1.1" 301 0
+[05/Dec/2014 01:22:44] "GET /phpMyAdmin/scripts/setup.php HTTP/1.1" 301 0
+[05/Dec/2014 01:22:44] "GET /phpmyadmin/scripts/setup.php HTTP/1.1" 301 0
+[05/Dec/2014 01:22:45] "GET /pma/scripts/setup.php HTTP/1.1" 301 0
+[05/Dec/2014 01:22:45] "GET /myadmin/scripts/setup.php HTTP/1.1" 301 0
+[05/Dec/2014 01:22:45] "GET /MyAdmin/scripts/setup.php HTTP/1.1" 301 0
+[05/Dec/2014 04:13:54] "GET / HTTP/1.0" 200 21334
+[05/Dec/2014 04:22:55] "GET / HTTP/1.0" 200 21334
+[05/Dec/2014 04:26:04] "GET / HTTP/1.0" 200 21334
+[05/Dec/2014 06:36:41] "GET /user/soapCaller.bs HTTP/1.1" 301 0
+[05/Dec/2014 09:33:50] "GET / HTTP/1.0" 200 21334
+[05/Dec/2014 09:44:44] "GET / HTTP/1.0" 200 21334
+[05/Dec/2014 12:37:30] "GET http://s1.bdstatic.com/r/www/cache/static/home/img/logos/nuomi_ade5465d.png HTTP/1.1" 404 1816
+[05/Dec/2014 12:41:50] "HEAD / HTTP/1.1" 200 0
+[05/Dec/2014 16:56:15] "HEAD / HTTP/1.0" 200 0
+[05/Dec/2014 21:44:41] "GET http://www.baidu.com/ HTTP/1.1" 404 1652
+[06/Dec/2014 07:27:22] "GET / HTTP/1.1" 200 21334
+[06/Dec/2014 09:23:16] "HEAD / HTTP/1.1" 200 0
+[06/Dec/2014 11:16:08] "GET http://s1.bdstatic.com/r/www/cache/static/home/img/logos/nuomi_ade5465d.png HTTP/1.1" 404 1816
+[06/Dec/2014 17:15:06] "GET / HTTP/1.0" 200 21334
+[06/Dec/2014 22:56:58] "GET / HTTP/1.1" 200 21334
+[07/Dec/2014 15:53:33] "GET / HTTP/1.1" 200 21334
+[07/Dec/2014 15:53:38] "GET /robots.txt HTTP/1.1" 200 25
+[07/Dec/2014 17:07:54] "GET /manager/html HTTP/1.1" 301 0
+[07/Dec/2014 17:07:55] "GET /manager/html/ HTTP/1.1" 404 1586
+[08/Dec/2014 07:54:10] "HEAD /index.action HTTP/1.1" 301 0
+[08/Dec/2014 07:54:11] "HEAD /index.action/ HTTP/1.1" 404 0
+[08/Dec/2014 10:36:08] "GET / HTTP/1.1" 200 21334
+[08/Dec/2014 10:36:08] "GET /robots.txt HTTP/1.1" 200 25
+[08/Dec/2014 16:30:09] "GET / HTTP/1.0" 200 21334
+[08/Dec/2014 17:26:59] "HEAD / HTTP/1.0" 200 0
+[08/Dec/2014 19:39:42] "GET / HTTP/1.1" 200 21334
+[09/Dec/2014 05:13:45] "GET http://s1.bdstatic.com/r/www/cache/static/home/img/logos/nuomi_ade5465d.png HTTP/1.1" 404 1816
+[10/Dec/2014 01:01:00] "GET HTTP/1.1 HTTP/1.1" 404 1613
+[10/Dec/2014 01:01:01] "GET / HTTP/1.1" 200 21334
+[10/Dec/2014 01:01:05] "GET /cgi-bin/bash HTTP/1.1" 301 0
+[10/Dec/2014 01:01:06] "GET /cgi-bin/contact.cgi HTTP/1.1" 301 0
+[10/Dec/2014 01:01:10] "GET /cgi-bin/defaultwebpage.cgi HTTP/1.1" 301 0
+[10/Dec/2014 01:01:11] "GET /cgi-bin/env.cgi HTTP/1.1" 301 0
+[10/Dec/2014 01:01:12] "GET /cgi-bin/fire.cgi HTTP/1.1" 301 0
+[10/Dec/2014 01:01:13] "GET /cgi-bin/forum.cgi HTTP/1.1" 301 0
+[10/Dec/2014 01:01:14] "GET /cgi-bin/hello.cgi HTTP/1.1" 301 0
+[10/Dec/2014 01:01:15] "GET /cgi-bin/index.cgi HTTP/1.1" 301 0
+[10/Dec/2014 01:01:17] "GET /cgi-bin/login.cgi HTTP/1.1" 301 0
+[10/Dec/2014 01:01:18] "GET /cgi-bin/main.cgi HTTP/1.1" 301 0
+[10/Dec/2014 01:01:19] "GET /cgi-bin/meme.cgi HTTP/1.1" 301 0
+[10/Dec/2014 01:01:22] "GET /cgi-bin/php HTTP/1.1" 301 0
+[10/Dec/2014 01:01:23] "GET /cgi-bin/php4 HTTP/1.1" 301 0
+[10/Dec/2014 01:01:24] "GET /cgi-bin/php5 HTTP/1.1" 301 0
+[10/Dec/2014 01:01:25] "GET /cgi-bin/php5-cli HTTP/1.1" 301 0
+[10/Dec/2014 01:01:27] "GET /cgi-bin/recent.cgi HTTP/1.1" 301 0
+[10/Dec/2014 01:01:28] "GET /cgi-bin/sat-ir-web.pl HTTP/1.1" 301 0
+[10/Dec/2014 01:01:30] "GET /cgi-bin-sdb/printenv HTTP/1.1" 301 0
+[10/Dec/2014 01:01:31] "GET /cgi-bin/test-cgi HTTP/1.1" 301 0
+[10/Dec/2014 01:01:32] "GET /cgi-bin/test.cgi HTTP/1.1" 301 0
+[10/Dec/2014 01:01:33] "GET /cgi-bin/test-cgi.pl HTTP/1.1" 301 0
+[10/Dec/2014 01:01:34] "GET /cgi-bin/test.sh HTTP/1.1" 301 0
+[10/Dec/2014 01:01:35] "GET /cgi-bin/tools/tools.pl HTTP/1.1" 301 0
+[10/Dec/2014 01:01:38] "GET /cgi-mod/index.cgi HTTP/1.1" 301 0
+[10/Dec/2014 01:01:39] "GET /cgi-sys/defaultwebpage.cgi HTTP/1.1" 301 0
+[10/Dec/2014 01:01:41] "GET /cgi-sys/entropysearch.cgi HTTP/1.1" 301 0
+[10/Dec/2014 01:01:42] "GET /cgi-sys/php5 HTTP/1.1" 301 0
+[10/Dec/2014 01:01:43] "GET /phppath/cgi_wrapper HTTP/1.1" 301 0
+[10/Dec/2014 01:01:44] "GET /phppath/php HTTP/1.1" 301 0
+[10/Dec/2014 08:04:05] "GET http://s1.bdstatic.com/r/www/cache/static/home/img/logos/nuomi_ade5465d.png HTTP/1.1" 404 1816
+[10/Dec/2014 11:01:39] "GET / HTTP/1.1" 200 21334
+[10/Dec/2014 11:10:53] "HEAD / HTTP/1.0" 200 0
+[10/Dec/2014 18:18:46] "HEAD / HTTP/1.0" 200 0
+[10/Dec/2014 19:50:41] "HEAD / HTTP/1.0" 200 0
+[11/Dec/2014 02:32:52] "GET /languages/flags/ptt_bbrr.gif HTTP/1.1" 301 0
+[11/Dec/2014 04:27:31] "GET / HTTP/1.1" 200 21334
+[11/Dec/2014 14:27:54] "HEAD / HTTP/1.0" 200 0
+[11/Dec/2014 14:48:05] "GET /manager/html HTTP/1.1" 301 0
+[11/Dec/2014 21:52:37] "GET / HTTP/1.0" 200 21334
+[12/Dec/2014 01:03:37] "GET / HTTP/1.0" 200 21334
+[12/Dec/2014 02:46:49] "GET /tmUnblock.cgi HTTP/1.1" 301 0
+[12/Dec/2014 14:01:47] "HEAD /login.action HTTP/1.1" 301 0
+[12/Dec/2014 14:01:49] "HEAD /login.action/ HTTP/1.1" 404 0
+[12/Dec/2014 14:01:51] "HEAD /unAuthorizedAccess.action HTTP/1.1" 301 0
+[12/Dec/2014 14:01:52] "HEAD /unAuthorizedAccess.action/ HTTP/1.1" 404 0
+[12/Dec/2014 14:41:04] "POST /cgi-bin/php?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E HTTP/1.1" 500 75038
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 86, in run
+    self.finish_response()
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 128, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 217, in write
+    self._write(data)
+  File "/usr/lib/python2.7/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 104] Connection reset by peer
+[12/Dec/2014 14:41:04] "POST /cgi-bin/php?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/srv/.virtualenv/tabono/local/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 126, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 651, in __init__
+    self.finish()
+  File "/usr/lib/python2.7/SocketServer.py", line 710, in finish
+    self.wfile.close()
+  File "/usr/lib/python2.7/socket.py", line 279, in close
+    self.flush()
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 32] Broken pipe
+[12/Dec/2014 14:41:04] "POST /cgi-bin/php5?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E HTTP/1.1" 500 75054
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 86, in run
+    self.finish_response()
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 128, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 217, in write
+    self._write(data)
+  File "/usr/lib/python2.7/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 104] Connection reset by peer
+[12/Dec/2014 14:41:04] "POST /cgi-bin/php5?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/srv/.virtualenv/tabono/local/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 126, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 651, in __init__
+    self.finish()
+  File "/usr/lib/python2.7/SocketServer.py", line 710, in finish
+    self.wfile.close()
+  File "/usr/lib/python2.7/socket.py", line 279, in close
+    self.flush()
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 32] Broken pipe
+[12/Dec/2014 14:41:05] "POST /cgi-bin/php-cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E HTTP/1.1" 500 75102
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 86, in run
+    self.finish_response()
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 128, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 217, in write
+    self._write(data)
+  File "/usr/lib/python2.7/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 104] Connection reset by peer
+[12/Dec/2014 14:41:05] "POST /cgi-bin/php-cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/srv/.virtualenv/tabono/local/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 126, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 651, in __init__
+    self.finish()
+  File "/usr/lib/python2.7/SocketServer.py", line 710, in finish
+    self.wfile.close()
+  File "/usr/lib/python2.7/socket.py", line 279, in close
+    self.flush()
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 32] Broken pipe
+[12/Dec/2014 14:41:06] "POST /cgi-bin/php.cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E HTTP/1.1" 500 75102
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 86, in run
+    self.finish_response()
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 128, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 217, in write
+    self._write(data)
+  File "/usr/lib/python2.7/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 104] Connection reset by peer
+[12/Dec/2014 14:41:06] "POST /cgi-bin/php.cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/srv/.virtualenv/tabono/local/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 126, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 651, in __init__
+    self.finish()
+  File "/usr/lib/python2.7/SocketServer.py", line 710, in finish
+    self.wfile.close()
+  File "/usr/lib/python2.7/socket.py", line 279, in close
+    self.flush()
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 32] Broken pipe
+[12/Dec/2014 14:41:06] "POST /cgi-bin/php4?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E HTTP/1.1" 500 75054
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 86, in run
+    self.finish_response()
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 128, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 217, in write
+    self._write(data)
+  File "/usr/lib/python2.7/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 104] Connection reset by peer
+[12/Dec/2014 14:41:06] "POST /cgi-bin/php4?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/srv/.virtualenv/tabono/local/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 126, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 651, in __init__
+    self.finish()
+  File "/usr/lib/python2.7/SocketServer.py", line 710, in finish
+    self.wfile.close()
+  File "/usr/lib/python2.7/socket.py", line 279, in close
+    self.flush()
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 32] Broken pipe
+[12/Dec/2014 19:46:34] "CONNECT 178.237.17.175:443 HTTP/1.0" 404 1676
+[12/Dec/2014 21:03:23] "CONNECT 178.237.17.175:443 HTTP/1.0" 404 1676
+[12/Dec/2014 21:23:42] "HEAD / HTTP/1.0" 200 0
+[12/Dec/2014 22:26:06] "CONNECT 178.237.17.180:443 HTTP/1.0" 404 1676
+[12/Dec/2014 23:44:47] "GET /tmUnblock.cgi HTTP/1.1" 301 0
+[12/Dec/2014 23:51:19] "CONNECT 178.237.19.175:443 HTTP/1.0" 404 1676
+[13/Dec/2014 01:12:32] "CONNECT 178.237.19.180:443 HTTP/1.0" 404 1676
+[13/Dec/2014 02:32:59] "CONNECT 178.237.23.245:443 HTTP/1.0" 404 1676
+[13/Dec/2014 03:56:35] "CONNECT 178.237.17.175:443 HTTP/1.0" 404 1676
+[13/Dec/2014 05:46:06] "GET http://s1.bdstatic.com/r/www/cache/static/home/img/logos/nuomi_ade5465d.png HTTP/1.1" 404 1816
+[13/Dec/2014 06:37:51] "HEAD / HTTP/1.0" 200 0
+[13/Dec/2014 07:46:33] "HEAD / HTTP/1.0" 200 0
+[13/Dec/2014 09:09:54] "HEAD / HTTP/1.1" 200 0
+[13/Dec/2014 12:44:39] "GET /manager/html HTTP/1.1" 301 0
+[13/Dec/2014 18:52:15] "HEAD / HTTP/1.0" 200 0
+[13/Dec/2014 23:46:45] "HEAD / HTTP/1.0" 200 0
+[14/Dec/2014 02:25:29] "HEAD / HTTP/1.0" 200 0
+[14/Dec/2014 11:10:29] "GET /tmUnblock.cgi HTTP/1.1" 301 0
+[14/Dec/2014 15:00:05] "GET /w00tw00t.at.blackhats.romanian.anti-sec:) HTTP/1.1" 301 0
+[14/Dec/2014 15:00:06] "GET /phpMyAdmin/scripts/setup.php HTTP/1.1" 301 0
+[14/Dec/2014 15:00:06] "GET /phpmyadmin/scripts/setup.php HTTP/1.1" 301 0
+[14/Dec/2014 15:00:07] "GET /myadmin/scripts/setup.php HTTP/1.1" 301 0
+[14/Dec/2014 15:00:07] "GET /mysqladmin/scripts/setup.php HTTP/1.1" 301 0
+[14/Dec/2014 15:00:08] "GET /pma/scripts/setup.php HTTP/1.1" 301 0
+[14/Dec/2014 15:00:08] "GET /mysql/scripts/setup.php HTTP/1.1" 301 0
+[14/Dec/2014 15:00:09] "GET /phpadmin/scripts/setup.php HTTP/1.1" 301 0
+[14/Dec/2014 15:00:09] "GET /websql/scripts/setup.php HTTP/1.1" 301 0
+[14/Dec/2014 15:00:10] "GET /web/scripts/setup.php HTTP/1.1" 301 0
+[14/Dec/2014 15:00:10] "GET /MyAdmin/scripts/setup.php HTTP/1.1" 301 0
+[14/Dec/2014 15:00:11] "GET /phpadmin/scripts/setup.php HTTP/1.1" 301 0
+[14/Dec/2014 17:08:07] "GET / HTTP/1.1" 200 21334
+[14/Dec/2014 19:04:47] "GET /" 200 21334
+[14/Dec/2014 22:04:02] "HEAD / HTTP/1.0" 200 0
+[15/Dec/2014 00:03:58] "POST /index.action HTTP/1.1" 500 57790
+[15/Dec/2014 06:26:54] "GET http://s1.bdstatic.com/r/www/cache/static/home/img/logos/nuomi_ade5465d.png HTTP/1.1" 404 1816
+[15/Dec/2014 14:19:34] "GET /tmUnblock.cgi HTTP/1.1" 301 0
+[15/Dec/2014 15:45:26] "GET /tmUnblock.cgi HTTP/1.1" 301 0
+[15/Dec/2014 21:39:19] "GET /tmUnblock.cgi HTTP/1.1" 301 0
+[16/Dec/2014 04:52:41] "HEAD / HTTP/1.0" 200 0
+[16/Dec/2014 05:17:40] "POST / HTTP/1.1" 403 2282
+[16/Dec/2014 07:29:25] "GET /tmUnblock.cgi HTTP/1.1" 301 0
+[16/Dec/2014 10:22:31] "GET /manager/html HTTP/1.1" 301 0
+[16/Dec/2014 10:22:32] "GET /manager/html/ HTTP/1.1" 404 1586
+[16/Dec/2014 11:46:17] "GET http://s1.bdstatic.com/r/www/cache/static/home/img/logos/nuomi_ade5465d.png HTTP/1.1" 404 1816
+[16/Dec/2014 17:31:01] "GET /cgi-bin/test-cgi HTTP/1.1" 301 0
+[16/Dec/2014 17:31:01] "GET /cgi-bin/test-cgi/ HTTP/1.1" 404 1594
+[16/Dec/2014 19:40:08] code 400, message Bad request syntax ('\xff\xff\xff\xff@\x01s\x00')
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/srv/.virtualenv/tabono/local/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 126, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 649, in __init__
+    self.handle()
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 117, in handle
+    if not self.parse_request(): # An error code has been sent, just exit
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 286, in parse_request
+    self.send_error(400, "Bad request syntax (%r)" % requestline)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 368, in send_error
+    self.send_response(code, message)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 385, in send_response
+    self.log_request(code)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 422, in log_request
+    self.requestline, str(code), str(size))
+  File "/srv/.virtualenv/tabono/local/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 138, in log_message
+    msg = "[%s] %s\n" % (self.log_date_time_string(), format % args)
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xff in position 1: ordinal not in range(128)
+[16/Dec/2014 19:40:08] code 400, message Bad request syntax ('\xff\xff\xff\xff@\x01r\x00')
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/srv/.virtualenv/tabono/local/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 126, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 649, in __init__
+    self.handle()
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 117, in handle
+    if not self.parse_request(): # An error code has been sent, just exit
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 286, in parse_request
+    self.send_error(400, "Bad request syntax (%r)" % requestline)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 368, in send_error
+    self.send_response(code, message)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 385, in send_response
+    self.log_request(code)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 422, in log_request
+    self.requestline, str(code), str(size))
+  File "/srv/.virtualenv/tabono/local/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 138, in log_message
+    msg = "[%s] %s\n" % (self.log_date_time_string(), format % args)
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xff in position 1: ordinal not in range(128)
+[16/Dec/2014 19:40:11] code 400, message Bad request syntax ('\xff\xff\xff\xff@\x01s\x00')
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/srv/.virtualenv/tabono/local/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 126, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 649, in __init__
+    self.handle()
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 117, in handle
+    if not self.parse_request(): # An error code has been sent, just exit
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 286, in parse_request
+    self.send_error(400, "Bad request syntax (%r)" % requestline)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 368, in send_error
+    self.send_response(code, message)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 385, in send_response
+    self.log_request(code)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 422, in log_request
+    self.requestline, str(code), str(size))
+  File "/srv/.virtualenv/tabono/local/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 138, in log_message
+    msg = "[%s] %s\n" % (self.log_date_time_string(), format % args)
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xff in position 1: ordinal not in range(128)
+[16/Dec/2014 19:40:15] code 400, message Bad request syntax ('\xff\xff\xff\xff@\x01r\x00')
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/srv/.virtualenv/tabono/local/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 126, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 649, in __init__
+    self.handle()
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 117, in handle
+    if not self.parse_request(): # An error code has been sent, just exit
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 286, in parse_request
+    self.send_error(400, "Bad request syntax (%r)" % requestline)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 368, in send_error
+    self.send_response(code, message)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 385, in send_response
+    self.log_request(code)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 422, in log_request
+    self.requestline, str(code), str(size))
+  File "/srv/.virtualenv/tabono/local/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 138, in log_message
+    msg = "[%s] %s\n" % (self.log_date_time_string(), format % args)
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xff in position 1: ordinal not in range(128)
+[17/Dec/2014 04:32:40] "GET http://s1.bdstatic.com/r/www/cache/static/home/img/logos/nuomi_ade5465d.png HTTP/1.1" 404 1816
+[17/Dec/2014 04:36:53] "GET /manager/html HTTP/1.1" 301 0
+[17/Dec/2014 05:38:27] "GET / HTTP/1.1" 200 21334
+[17/Dec/2014 09:49:33] "GET /user/soapCaller.bs HTTP/1.1" 301 0
+[17/Dec/2014 12:57:44] "HEAD / HTTP/1.1" 200 0
+[17/Dec/2014 16:48:47] "GET /manager/html HTTP/1.1" 301 0
+[17/Dec/2014 16:48:48] "GET /manager/html/ HTTP/1.1" 404 1586
+[17/Dec/2014 18:00:41] "GET HTTP/1.1 HTTP/1.1" 404 1613
+[17/Dec/2014 18:00:41] "GET / HTTP/1.1" 200 21334
+[17/Dec/2014 18:00:42] "GET /cgi-bin/bash HTTP/1.1" 301 0
+[17/Dec/2014 18:00:43] "GET /cgi-bin/contact.cgi HTTP/1.1" 301 0
+[17/Dec/2014 18:00:43] "GET /cgi-bin/defaultwebpage.cgi HTTP/1.1" 301 0
+[17/Dec/2014 18:00:44] "GET /cgi-bin/env.cgi HTTP/1.1" 301 0
+[17/Dec/2014 18:00:44] "GET /cgi-bin/fire.cgi HTTP/1.1" 301 0
+[17/Dec/2014 18:00:44] "GET /cgi-bin/forum.cgi HTTP/1.1" 301 0
+[17/Dec/2014 18:00:45] "GET /cgi-bin/hello.cgi HTTP/1.1" 301 0
+[17/Dec/2014 18:00:45] "GET /cgi-bin/index.cgi HTTP/1.1" 301 0
+[17/Dec/2014 18:00:46] "GET /cgi-bin/login.cgi HTTP/1.1" 301 0
+[17/Dec/2014 18:00:46] "GET /cgi-bin/main.cgi HTTP/1.1" 301 0
+[17/Dec/2014 18:00:47] "GET /cgi-bin/meme.cgi HTTP/1.1" 301 0
+[17/Dec/2014 18:00:47] "GET /cgi-bin/php HTTP/1.1" 301 0
+[17/Dec/2014 18:00:48] "GET /cgi-bin/php4 HTTP/1.1" 301 0
+[17/Dec/2014 18:00:48] "GET /cgi-bin/php5 HTTP/1.1" 301 0
+[17/Dec/2014 18:00:49] "GET /cgi-bin/php5-cli HTTP/1.1" 301 0
+[17/Dec/2014 18:00:49] "GET /cgi-bin/recent.cgi HTTP/1.1" 301 0
+[17/Dec/2014 18:00:50] "GET /cgi-bin/sat-ir-web.pl HTTP/1.1" 301 0
+[17/Dec/2014 18:00:50] "GET /cgi-bin-sdb/printenv HTTP/1.1" 301 0
+[17/Dec/2014 18:00:51] "GET /cgi-bin/test-cgi HTTP/1.1" 301 0
+[17/Dec/2014 18:00:51] "GET /cgi-bin/test.cgi HTTP/1.1" 301 0
+[17/Dec/2014 18:00:51] "GET /cgi-bin/test-cgi.pl HTTP/1.1" 301 0
+[17/Dec/2014 18:00:52] "GET /cgi-bin/test.sh HTTP/1.1" 301 0
+[17/Dec/2014 18:00:52] "GET /cgi-bin/tools/tools.pl HTTP/1.1" 301 0
+[17/Dec/2014 18:00:53] "GET /cgi-mod/index.cgi HTTP/1.1" 301 0
+[17/Dec/2014 18:00:53] "GET /cgi-sys/defaultwebpage.cgi HTTP/1.1" 301 0
+[17/Dec/2014 18:00:54] "GET /cgi-sys/entropysearch.cgi HTTP/1.1" 301 0
+[17/Dec/2014 18:00:54] "GET /cgi-sys/php5 HTTP/1.1" 301 0
+[17/Dec/2014 18:00:55] "GET /phppath/cgi_wrapper HTTP/1.1" 301 0
+[17/Dec/2014 18:00:55] "GET /phppath/php HTTP/1.1" 301 0
+[18/Dec/2014 05:49:50] "GET http://s1.bdstatic.com/r/www/cache/static/home/img/logos/nuomi_ade5465d.png HTTP/1.1" 404 1816
+[18/Dec/2014 11:26:21] "HEAD / HTTP/1.0" 200 0
+[18/Dec/2014 14:04:37] "HEAD / HTTP/1.0" 200 0
+[18/Dec/2014 16:14:51] "GET /tmUnblock.cgi HTTP/1.1" 301 0
+[18/Dec/2014 17:45:11] "GET /tmUnblock.cgi HTTP/1.1" 301 0
+[18/Dec/2014 20:49:02] "GET /manager/html HTTP/1.1" 301 0
+[18/Dec/2014 20:49:03] "GET /manager/html/ HTTP/1.1" 404 1586
+[19/Dec/2014 00:15:47] "GET / HTTP/1.1" 200 21334
+[19/Dec/2014 00:15:47] "GET // HTTP/1.1" 404 1561
+[19/Dec/2014 00:15:47] "GET // HTTP/1.1" 404 1561
+[19/Dec/2014 00:15:47] "GET //about/ HTTP/1.1" 200 7383
+[19/Dec/2014 00:15:47] "GET //about/team/ HTTP/1.1" 200 7401
+[19/Dec/2014 00:15:48] "GET //about/history/ HTTP/1.1" 200 7413
+[19/Dec/2014 00:15:48] "GET //blog/ HTTP/1.1" 200 7373
+[19/Dec/2014 00:15:49] "GET //gallery/ HTTP/1.1" 200 7623
+[19/Dec/2014 00:15:49] "GET //contact/ HTTP/1.1" 200 9199
+[19/Dec/2014 00:15:50] "GET //contact/legals/ HTTP/1.1" 200 7411
+[19/Dec/2014 00:15:50] "GET /# HTTP/1.1" 301 0
+[19/Dec/2014 00:15:50] "GET /%23/ HTTP/1.1" 404 1564
+[19/Dec/2014 00:15:50] "GET /# HTTP/1.1" 301 0
+[19/Dec/2014 00:15:50] "GET /%23/ HTTP/1.1" 404 1564
+[19/Dec/2014 00:15:50] "GET /# HTTP/1.1" 301 0
+[19/Dec/2014 00:15:50] "GET /%23/ HTTP/1.1" 404 1564
+[19/Dec/2014 00:15:50] "GET //static/img/portfolio/portfolio_09.jpg HTTP/1.1" 301 0
+[19/Dec/2014 00:15:50] "GET /static/img/portfolio/portfolio_09.jpg/ HTTP/1.1" 200 111245
+[19/Dec/2014 00:15:51] "GET /# HTTP/1.1" 301 0
+[19/Dec/2014 00:15:51] "GET /%23/ HTTP/1.1" 404 1564
+[19/Dec/2014 00:15:51] "GET //static/img/portfolio/portfolio_02.jpg HTTP/1.1" 301 0
+[19/Dec/2014 00:15:51] "GET /static/img/portfolio/portfolio_02.jpg/ HTTP/1.1" 200 81194
+[19/Dec/2014 00:15:51] "GET /# HTTP/1.1" 301 0
+[19/Dec/2014 00:15:51] "GET /%23/ HTTP/1.1" 404 1564
+[19/Dec/2014 00:15:51] "GET //static/img/portfolio/portfolio_03.jpg HTTP/1.1" 301 0
+[19/Dec/2014 00:15:51] "GET /static/img/portfolio/portfolio_03.jpg/ HTTP/1.1" 200 83259
+[19/Dec/2014 00:15:52] "GET /# HTTP/1.1" 301 0
+[19/Dec/2014 00:15:52] "GET /%23/ HTTP/1.1" 404 1564
+[19/Dec/2014 00:15:52] "GET //static/img/portfolio/portfolio_04.jpg HTTP/1.1" 301 0
+[19/Dec/2014 00:15:52] "GET /static/img/portfolio/portfolio_04.jpg/ HTTP/1.1" 200 39249
+[19/Dec/2014 00:15:52] "GET /# HTTP/1.1" 301 0
+[19/Dec/2014 00:15:52] "GET /%23/ HTTP/1.1" 404 1564
+[19/Dec/2014 00:15:53] "GET / HTTP/1.1" 200 21334
+[19/Dec/2014 00:44:59] "GET /css/css HTTP/1.0" 301 0
+[19/Dec/2014 08:02:39] "GET /user/soapCaller.bs HTTP/1.1" 301 0
+[19/Dec/2014 08:29:36] "GET http://s1.bdstatic.com/r/www/cache/static/home/img/logos/nuomi_ade5465d.png HTTP/1.1" 404 1816
+[19/Dec/2014 13:47:00] "GET /manager/html HTTP/1.1" 301 0
+[19/Dec/2014 13:47:01] "GET /manager/html/ HTTP/1.1" 404 1586
+[19/Dec/2014 14:57:05] "HEAD / HTTP/1.1" 200 0
+[19/Dec/2014 20:08:42] "GET /actionnews/index/ HTTP/1.1" 404 1600
+[20/Dec/2014 08:18:10] "GET http://s1.bdstatic.com/r/www/cache/static/home/img/logos/nuomi_ade5465d.png HTTP/1.1" 404 1816
+[20/Dec/2014 14:55:01] "GET /manager/html HTTP/1.1" 301 0
+[20/Dec/2014 14:55:02] "GET /manager/html/ HTTP/1.1" 404 1586
+[20/Dec/2014 15:02:00] "HEAD / HTTP/1.1" 200 0
+[20/Dec/2014 17:37:49] "GET /manager/html HTTP/1.1" 301 0
+[20/Dec/2014 18:06:29] "GET /actionnews/index/ HTTP/1.1" 404 1600
+[21/Dec/2014 04:57:20] "GET http://s1.bdstatic.com/r/www/cache/static/home/img/logos/nuomi_ade5465d.png HTTP/1.1" 404 1816
+[21/Dec/2014 06:18:09] "HEAD / HTTP/1.0" 200 0
+[21/Dec/2014 07:47:00] "GET /w00tw00t.at.blackhats.romanian.anti-sec:) HTTP/1.1" 301 0
+[21/Dec/2014 07:47:01] "GET /phpMyAdmin/scripts/setup.php HTTP/1.1" 301 0
+[21/Dec/2014 07:47:01] "GET /phpmyadmin/scripts/setup.php HTTP/1.1" 301 0
+[21/Dec/2014 07:47:02] "GET /pma/scripts/setup.php HTTP/1.1" 301 0
+[21/Dec/2014 07:47:02] "GET /myadmin/scripts/setup.php HTTP/1.1" 301 0
+[21/Dec/2014 07:47:02] "GET /MyAdmin/scripts/setup.php HTTP/1.1" 301 0
+[21/Dec/2014 17:06:50] "GET /manager/html HTTP/1.1" 301 0
+[21/Dec/2014 17:06:51] "GET /manager/html/ HTTP/1.1" 404 1586
+[21/Dec/2014 20:18:58] "GET http://24x7-allrequestsallowed.com/?PHPSESSID=1rysxtR500143TVMUR%5E_FEGFSB HTTP/1.1" 404 1747
+[21/Dec/2014 21:46:37] "GET /manager/html HTTP/1.1" 301 0
+[21/Dec/2014 21:46:38] "GET /manager/html/ HTTP/1.1" 404 1586
+[21/Dec/2014 23:22:42] "HEAD /login.action HTTP/1.1" 301 0
+[21/Dec/2014 23:22:43] "HEAD /login.action/ HTTP/1.1" 404 0
+[22/Dec/2014 00:17:47] "GET /user/soapCaller.bs HTTP/1.1" 301 0
+[22/Dec/2014 01:34:08] "GET /muieblackcat HTTP/1.1" 301 0
+[22/Dec/2014 01:34:08] "GET //phpMyAdmin/scripts/setup.php HTTP/1.1" 301 0
+[22/Dec/2014 01:34:09] "GET //phpmyadmin/scripts/setup.php HTTP/1.1" 301 0
+[22/Dec/2014 01:34:10] "GET //pma/scripts/setup.php HTTP/1.1" 301 0
+[22/Dec/2014 01:34:10] "GET //myadmin/scripts/setup.php HTTP/1.1" 301 0
+[22/Dec/2014 01:34:11] "GET //MyAdmin/scripts/setup.php HTTP/1.1" 301 0
+[22/Dec/2014 04:23:15] "GET //wp-login.php HTTP/1.1" 301 0
+[22/Dec/2014 04:23:15] "GET /wp-login.php/ HTTP/1.1" 404 1586
+[22/Dec/2014 04:23:15] "GET /blog//wp-login.php HTTP/1.1" 301 0
+[22/Dec/2014 04:23:15] "GET /blog//wp-login.php/ HTTP/1.1" 404 1634
+[22/Dec/2014 04:23:15] "GET /wordpress//wp-login.php HTTP/1.1" 301 0
+[22/Dec/2014 04:23:15] "GET /wordpress//wp-login.php/ HTTP/1.1" 404 1608
+[22/Dec/2014 04:23:16] "GET /wp//wp-login.php HTTP/1.1" 301 0
+[22/Dec/2014 04:23:16] "GET /wp//wp-login.php/ HTTP/1.1" 404 1594
+[22/Dec/2014 06:09:42] "POST /login.action HTTP/1.1" 500 57787
+[22/Dec/2014 07:21:42] "GET / HTTP/1.1" 200 21334
+[22/Dec/2014 07:21:42] "GET /http://www.blacktie.co HTTP/1.1" 301 0
+[22/Dec/2014 07:21:42] "GET /http%3A//www.blacktie.co/ HTTP/1.1" 404 1606
+[22/Dec/2014 07:21:42] "GET /http://thecodinghouse.in HTTP/1.1" 301 0
+[22/Dec/2014 07:21:42] "GET /http%3A//thecodinghouse.in/ HTTP/1.1" 404 1610
+[22/Dec/2014 07:21:42] "GET / HTTP/1.1" 200 21334
+[22/Dec/2014 09:09:54] "HEAD / HTTP/1.1" 200 0
